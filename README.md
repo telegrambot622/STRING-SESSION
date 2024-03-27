@@ -32,13 +32,13 @@
 
 ### 🚀 ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ
   
-  <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/WCGKING/STRING-SESSION"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+  <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/telegrambot622/STRING-SESSION"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 
 ### 🙄 ᴅᴇᴍᴏ/ᴛᴇsᴛ ʙᴏᴛ
   
-  [sᴛʀɪɴɢ ʙᴏᴛ 🍑](https://telegram.me/BRANDEDSTRINGSESSION_BOT)
+  [sᴛʀɪɴɢ ʙᴏᴛ 🍑](https://telegram.me/AMRIT_STRING_ROBOT)
 
 ```
 Atleast Give A Star and Fork The Repo 🖤
@@ -57,7 +57,7 @@ Atleast Give A Star and Fork The Repo 🖤
 
 
 ## 💖 ᴄʀᴇᴅɪᴛs
-- » [𝗕𝗥𝗔𝗡𝗗𝗘𝗗 𓆩🇽𓆪 𝗞𝗜𝗡𝗚](https://github.com/WCGKING)
+- » [˹𝐀ᴍʀɪᴛ 𝐊ᴏɴɪᴋɪ˼](https://github.com/telegrambot622)
 - » [Shivang](https://github.com/ShivangKakkar)
 - » [Dan Tès](https://github.com/delivrance) for [Pyrogram](https://github.com/pyrogram/pyrogram)
 - » [Lonami](https://github.com/LonamiWebs) for [Telethon](https://github.com/LonamiWebs/Telethon)
