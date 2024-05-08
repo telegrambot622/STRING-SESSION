@@ -18,15 +18,15 @@ Tʜɪs ɪs {me2},
 Aɴ ᴏᴘᴇɴ sᴏᴜʀᴄᴇ sᴛʀɪɴɢ sᴇssɪᴏɴ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ, ᴡʀɪᴛᴛᴇɴ ɪɴ ᴩʏᴛʜᴏɴ ᴡɪᴛʜ ᴛʜᴇ ʜᴇʟᴩ ᴏғ ᴩʏʀᴏɢʀᴀᴍ.
 ᴊɪsᴋᴇ ᴊᴀɪʙ ᴍᴇ ɢᴀɴᴅʜɪ  ᴄʜᴏʀɪ ᴜsᴋᴇ ᴘʏᴀᴀʀ ᴍᴇ ᴀᴀɴᴅʜɪ 🖤.
 
-Mᴀᴅᴇ ᴡɪᴛʜ ❤ ʙʏ : [˹𝐀ᴍʀɪᴛ 𝐊ᴏɴɪᴋɪ˼](https://t.me/amrit_Koniki) !""",
+Mᴀᴅᴇ ᴡɪᴛʜ ❤ ʙʏ : [˹𝐀ᴍʀɪᴛ 𝐊ᴏɴɪᴋɪ˼](https://t.me/ɑᴍʀɪᴛ яᴀᴊ) !""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(text="ɢᴇɴᴇʀᴀᴛᴇ sᴇssɪᴏɴ", callback_data="generate")
                 ],
                 [
-                    InlineKeyboardButton("sᴏᴜʀᴄᴇ", url="https://t.me/AMRIT_X_SUPPORT"),
-                    InlineKeyboardButton("ᴅᴇᴠᴇʟᴏᴩᴇʀ", url="https://t.me/amrit_Koniki")
+                    InlineKeyboardButton("sᴏᴜʀᴄᴇ", url="https://t.me/ANIME_X_SUPPORT"),
+                    InlineKeyboardButton("ᴅᴇᴠᴇʟᴏᴩᴇʀ", url="https://t.me/amrit_amrit_raj_9")
                 ]
             ]
         ),
